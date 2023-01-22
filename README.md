@@ -21,7 +21,7 @@ O desafio aqui foi mental. Como já tenho algum conhecimento sai construindo o c
 Outro desafio, que esta em meu horizonte de estudo, é a responsividade, que ainda nao ficou como eu gostaria.
 
 ## Resultado
-[Resultado Desktop](/design/Result.png)
+![Resultado Desktop](/design/Result.png)
 
 
 
