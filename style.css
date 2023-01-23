@@ -2,6 +2,8 @@
 
 * {
     box-sizing: border-box;
+    margin: 0;
+    padding: 0;
     
 }
 
@@ -47,10 +49,12 @@ body {
 .text-container h1{
     letter-spacing: -0.02rem;
     font-weight: 700;
+    margin: 1.5rem 0;
 }
 
 .text-container p{
     color: var(--Grayish-blue-color);
     font-weight: 400;
     padding: 0 3rem;
+    margin-bottom: 1.5rem;
 }
