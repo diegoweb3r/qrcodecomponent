@@ -1,28 +1,40 @@
-# Frontend Mentor - QR code component
+<h1 align="center"> 📌 QR Component  </h1>
+
+<h2 align="center"> 📖 Descrição   </h2>
+<p align="justify"> Desafio de projeto front-end simples </p>
+
+---
+
+### 🛠 Tecnologias Utilizadas  
+- HTML5  
+- CSS3  
+- Git / Github
+---
+
+### ⚙️ Funcionalidades  
+- [🟢] Front-end completo
+- [🟢] Responsividade 
 
 
+---
 
-## Bem vindo! 👋
+### 👤 Autor
+[Diego Felipe Weber](https://www.linkedin.com/in/diego-weber-474a5aa6/)   
+[FrontendMentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)
 
-Obrigado por consultar meu desafio de front-end.
+---
 
-[Frontend Mentor](https://www.frontendmentor.io) desafios me ajudam a melhorar minhas abilidades em front-end.
+### 🗣️ Comentários
+<p align="justify">niciei o projeto sem muito planejamento. Apesar de parecer simples, acabou exigindo mais trabalho do que o esperado, e precisei reiniciá-lo do zero com mais atenção aos detalhes. </p>
+---
 
+### 🤝 Contribuição
+Contribuições são sempre bem-vindas!   
+Se quiser colaborar:
+1. Faça um fork do projeto
+2. Crie uma nova branch com sua feature (git checkout -b minha-feature)
+3. Realize o commit das alterações (git commit -m 'Adicionei minha feature')
+4. Faça o push da branch (git push origin minha-feature)
+5. Abra um Pull Request
 
-## O Desafio
-O desafio é construir um Card de QR code visando parecer o Card de exemplo.
-![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
-
-
-
-## Desafios para mim
-
-O desafio aqui foi mental. Como já tenho algum conhecimento sai construindo o codigo sem pensar préviamente e no final, precisei ir refatorando e acabou com minha auto-estima. Com calma e respirando comecei do zero passo a passo e consegui criar, em minha opniao, um modelo muito parecido com o proposto.
-Outro desafio, que esta em meu horizonte de estudo, é a responsividade, que ainda nao ficou como eu gostaria.
-
-## Resultado
-![Resultado Desktop](/design/Result.png)
-
-
-
-**Have fun building!** 🚀
+---

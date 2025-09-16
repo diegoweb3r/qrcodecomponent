@@ -50,6 +50,7 @@ body {
     letter-spacing: -0.02rem;
     font-weight: 700;
     margin: 1.5rem 0;
+    color: var(--Dark-blue-color);
 }
 
 .text-container p{
